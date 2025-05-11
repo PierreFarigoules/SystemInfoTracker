@@ -1,0 +1,19 @@
+Nom de la machine: "pierre"
+Adresse ip: "192.168.1.97"
+Adresse MAC: "00:0c:29:0a:94:3e"
+RAM: "3,8Gi"
+Espace disque: "9,8G"
+Date: "sam. 10 mai 2025 14:03:16 UTC"
+Info du system: "PRETTY_NAME="Ubuntu 24.04.2 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.2 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo"

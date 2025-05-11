@@ -1,0 +1,13 @@
+﻿{
+    "NomMachine":  "DESKTOP-QPESSAI",
+    "AdresseIP":  "192.168.1.30",
+    "AdresseMAC":  "00-0C-29-CE-50-4F",
+    "MemoireGB":  3.99,
+    "StockageTotalGB":  63.27,
+    "DateHeure":  "08-05-2025 23:28:44",
+    "OS":  {
+               "Nom":  "Microsoft Windows 11 Professionnel",
+               "Version":  "10.0.26100",
+               "Architecture":  "Processeur ARM 64 bits"
+           }
+}

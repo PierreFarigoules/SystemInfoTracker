@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="NomMachine" Type="System.String">DESKTOP-QPESSAI</Property>
+    <Property Name="AdresseIP" Type="System.String">192.168.1.30</Property>
+    <Property Name="AdresseMAC" Type="System.String">00-0C-29-CE-50-4F</Property>
+    <Property Name="MemoireGB" Type="System.Double">3,99</Property>
+    <Property Name="StockageTotalGB" Type="System.Double">63,27</Property>
+    <Property Name="DateHeure" Type="System.String">08-05-2025 23:28:44</Property>
+    <Property Name="OS" Type="System.Management.Automation.PSCustomObject">
+      <Property Name="Nom" Type="System.String">Microsoft Windows 11 Professionnel</Property>
+      <Property Name="Version" Type="System.String">10.0.26100</Property>
+      <Property Name="Architecture" Type="System.String">Processeur ARM 64 bits</Property>
+    </Property>
+  </Object>
+</Objects>
